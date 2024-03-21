@@ -1,4 +1,4 @@
-﻿,Max  Temperature (°F),Avg  Temperature (°F),Min  Temperature (°F),Max  Dew Point (°F),Avg  Dew Point (°F),Min  Dew Point (°F),Max  Humidity (%),Avg  Humidity (%),Min  Humidity (%),Max  Wind Speed (mph),Avg  Wind Speed (mph),Min  Wind Speed (mph),Max  Pressure (in),Avg  Pressure (in),Min  Pressure (in),Total Precipitation (in)
+Date, max_temp, avg_temp, min_temp, max_dew_pt, avg_dew_pt, min_dew_pt, max_humidity, avg_humidity, min_humidity, max_wind_speed, avg_wind_speed, min_wind_speed, max_pressure, avg_pressure, min_pressure, total_precipitation
 6/1/21,78 ,67.4 ,57 ,53 ,49.9 ,43 ,84 ,56.5 ,29 ,17 ,5.8 ,0 ,30.3 ,30.2 ,30.2 ,0.00 
 6/2/21,75 ,67.8 ,63 ,56 ,52.0 ,48 ,78 ,57.3 ,49 ,15 ,8.3 ,0 ,30.2 ,30.2 ,30.1 ,0.00 
 6/3/21,73 ,65.3 ,61 ,64 ,60.2 ,55 ,93 ,83.9 ,71 ,9 ,6.3 ,3 ,30.1 ,30.0 ,29.9 ,0.00 
